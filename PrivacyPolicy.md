@@ -13,6 +13,6 @@ permalink: /PrivacyPolicy.html
 <script>location.replace("https://gamedayextra.com/privacy.html");</script>
 </head>
 <body style="font-family:-apple-system,system-ui,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;line-height:1.55">
-<p>Coach's Clipboard is now <strong>GameDay Extra!</strong>. This page has moved to <a href="https://gamedayextra.com/privacy.html">https://gamedayextra.com/privacy.html</a>.</p>
+<p>Coach's Clipboard is now <strong>GameDay Extra!</strong> This page has moved to <a href="https://gamedayextra.com/privacy.html">https://gamedayextra.com/privacy.html</a>.</p>
 </body>
 </html>
